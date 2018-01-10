@@ -1,2 +1,2 @@
 # sofiabostrom.tech
-Sofia Boström homepage
+Sofia Boströms homepage
